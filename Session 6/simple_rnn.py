@@ -1,19 +1,5 @@
 
 
-!pip install tensorflow==2.12.0 tensorflow-probability==0.20.0
-
-!pip install d2l==1.0.3
-
-"""# Concise Implementation of Recurrent Neural Networks
-
-
-
-This programming task will show you how to implement
-a language model more efficiently
-using a simple recurrent neural network.
-
-"""
-
 import tensorflow as tf
 from d2l import tensorflow as d2l
 
